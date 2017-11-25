@@ -1,0 +1,6 @@
+para compilar a solucao, abrir no terminal a pasta "Codigo Fonte":
+1- javac *.java
+2- java Main <nomeDoArquivoDeSaida>.txt <numeroDeAssentos>
+
+para executar o verificador
+1- java NewMain <nomeDoArquivoDeSaida>.txt <numeroDeAssentos>
